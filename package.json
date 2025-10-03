@@ -1,0 +1,24 @@
+{
+  "name": "input-html",
+  "version": "1.0.0",
+  "description": "Utilização de inputs para capturar dados do usuário",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariana-Rodrigu3s/Input-HTML.git"
+  },
+  "keywords": [
+    "inputs",
+    "formulário",
+    "html"
+  ],
+  "author": "Mariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariana-Rodrigu3s/Input-HTML/issues"
+  },
+  "homepage": "https://github.com/Mariana-Rodrigu3s/Input-HTML#readme"
+}
