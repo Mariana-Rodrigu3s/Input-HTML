@@ -1,0 +1,6 @@
+: -> type
+# -> id
+. -> classe
+> -> dentro
++ -> acrescenta
+{} -> texto tag
