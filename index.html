@@ -13,16 +13,16 @@
         <p>Um formulário de exemplo para demonstrar</p>
 
         <!-- Indica que será um formulário de envios de dados -->
-        <form class="input-catalog-form">
+        <form class="input-catalog-form" action="./cadastro-sucesso.html">
             <section class="form-section">
                 <!-- Criar agrupamento no formulário -->
                 <fieldset class="form-group">
                     <legend class="form-group-title">Dados Pessoais e Texto</legend>
                     <label for="nome" class="form-label">Nome:</label>
-                    <input type="text" id="nome" name="nome" class="form-imput" placeholder="Digite seu nome completo" required  minlength="3"/>
+                    <input type="text" id="nome" name="nome" class="form-input" placeholder="Digite seu nome completo" required minlength="3"/>
 
                     <label for="nome" class="form-label">Senha:</label>
-                    <input type="senha" id="senha" name="senha" class="form-input" placeholder="Mínimo de 8 caracteres" required minlength="8"/>
+                    <input type="password" id="senha" name="senha" class="form-input" placeholder="Mínimo de 8 caracteres" required minlength="8"/>
 
                     <label for="email" class="form-label">E-mail:</label>
                     <input type="email" id="email" name="email" class="form-input" placeholder="exemplo@dominio.com" required/>
